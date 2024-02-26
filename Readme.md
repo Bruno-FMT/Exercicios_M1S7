@@ -42,11 +42,24 @@ Aplicativo usado DBeaver.
 
 - Criar Banco de Dados "cursos"
 <div align="center">
-  <img src="imagens/create_db.png">
+  <img src="imagens/create_db.png" alt="Create Data Base Código">
 </div>
 
 - DDL tabela professor
 
 <div align="center">
-  <img src="imagens/ddl_professor.png">
+  <img src="imagens/ddl_professor.png" alt="DDL">
+</div>
+
+## [M1S7] Ex 3 - DML (Professor)
+
+### Descrição
+
+Tabela criada! Estão faltando seus dados. 
+Crie ao menos 5 comandos 'insert' para a tabela _professor_ com dados diferentes.
+
+## Resultado
+
+<div align="center">
+  <img src="imagens/dnl_professor.png" alt="DML">
 </div>
