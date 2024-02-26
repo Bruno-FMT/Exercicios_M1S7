@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b3d1c7-fb9f-4440-bb84-c0c820247c29" name="Changes" comment="branch develop criada">
+    <list default="true" id="c7b3d1c7-fb9f-4440-bb84-c0c820247c29" name="Changes" comment="Ex 1 - Finalizado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="feature_ex1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature__ex1",
+    "git-widget-placeholder": "feature__ex2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/bruno/Desktop/Exercicios/M1S7",
     "node.js.detected.package.eslint": "true",
@@ -77,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708958953918</updated>
-      <workItem from="1708958955326" duration="2434000" />
+      <workItem from="1708958955326" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="branch develop criada">
       <option name="closed" value="true" />
@@ -87,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708959336958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ex 1 - Finalizado">
+      <option name="closed" value="true" />
+      <created>1708968242305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708968242305</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="branch develop criada" />
-    <option name="LAST_COMMIT_MESSAGE" value="branch develop criada" />
+    <MESSAGE value="Ex 1 - Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 1 - Finalizado" />
   </component>
 </project>
