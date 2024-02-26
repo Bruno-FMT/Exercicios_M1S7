@@ -25,7 +25,7 @@ Modelar tabelas "curso" e "professor"
 ### Resultado
 
 <div align="center">
-    <img src="imagens/mode" alt="modelagem lógoca">
+    <img src="imagens/modelagem.png" alt="modelagem lógoca">
 </div>
 
 
