@@ -89,3 +89,16 @@ Crie ao menos 3 comandos _insert_ para a tabela _curso_ cm dados diferentes
 <div align="center">
 <img src="imagens/dml_curso.png" alt="DML">
 </div>
+
+## [M1S7] Ex 6 - Modelagem (Relacionamento)
+
+### Descrição
+
+Volte na modelagem para implementarmos o relacionamento entre as tabelas
+Relacione as tabelas onde um curso pode ter vários _professores_ (N:1)
+
+## Resultado
+
+<div align="center">
+<img src="imagens/modelagem_fk.png" alt="Modelagem Relacionamento">
+</div>
