@@ -121,5 +121,3 @@ Cria *DDL* para o relacionamento entre as tabelas _curso_ e _professor_ conforme
 <div align="center">
 <img src="imagens/fk.png" alt="Modelagem FK">
 </div>
-
-## [M1S7] Ex 8 - 
