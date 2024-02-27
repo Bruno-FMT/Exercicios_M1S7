@@ -77,3 +77,15 @@ Crie *DDL* para a tabela _curso_ conforme sua modelagem
   <img src="imagens/ddl_professor.png" alt="DML">
 </div>
 
+## [M1S7] Ex 5 - DML (Curso)
+
+### Descrição
+
+O próximopasso são os dados!
+Crie ao menos 3 comandos _insert_ para a tabela _curso_ cm dados diferentes
+
+## Resultado
+
+<div align="center">
+<img src="imagens/dml_professor.png" alt="DML">
+</div>
