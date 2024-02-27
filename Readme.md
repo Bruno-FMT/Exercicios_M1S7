@@ -87,5 +87,5 @@ Crie ao menos 3 comandos _insert_ para a tabela _curso_ cm dados diferentes
 ## Resultado
 
 <div align="center">
-<img src="imagens/dml_professor.png" alt="DML">
+<img src="imagens/dml_curso.png" alt="DML">
 </div>
