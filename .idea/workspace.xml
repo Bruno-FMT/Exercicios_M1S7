@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ca5ab4f-25bd-4b79-bb29-d2d12b98df6a" name="Changes" comment="Atualização 1.0 - trocado imagem part1 -&gt; modelagem">
+    <list default="true" id="7cb43345-1149-46a7-8cfb-c2642b5bd029" name="Changes" comment="Ex 5 - Finalizado">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
@@ -24,45 +25,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
-  <component name="ProjectId" id="2cvPpMac1fcSOcJcTlrRP9Mn7Cw" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cxCx3iKQn5nrcCdmXN3ah9tnpN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature__at1__0",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/bruno/Desktop/Exercicios/M1S7",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="M1S7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="M1S7" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,20 +60,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ca5ab4f-25bd-4b79-bb29-d2d12b98df6a" name="Changes" comment="" />
-      <created>1708989264667</created>
+      <changelist id="7cb43345-1149-46a7-8cfb-c2642b5bd029" name="Changes" comment="" />
+      <created>1709044115515</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708989264667</updated>
-      <workItem from="1708989266863" duration="1212000" />
+      <updated>1709044115515</updated>
+      <workItem from="1709044117850" duration="878000" />
+      <workItem from="1709059482670" duration="749000" />
     </task>
-    <task id="LOCAL-00001" summary="Atualização 1.0 - trocado imagem part1 -&gt; modelagem">
+    <task id="LOCAL-00001" summary="Ex 5 - Finalizado">
       <option name="closed" value="true" />
-      <created>1708989970555</created>
+      <created>1709044569122</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1708989970555</updated>
+      <updated>1709044569122</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -96,7 +83,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Atualização 1.0 - trocado imagem part1 -&gt; modelagem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização 1.0 - trocado imagem part1 -&gt; modelagem" />
+    <MESSAGE value="Ex 5 - Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 5 - Finalizado" />
   </component>
 </project>
