@@ -74,7 +74,7 @@ Crie *DDL* para a tabela _curso_ conforme sua modelagem
 ## Resultado
 
 <div align="center">
-  <img src="imagens/ddl_professor.png" alt="DML">
+  <img src="imagens/ddl_professor.png" alt="DDL">
 </div>
 
 ## [M1S7] Ex 5 - DML (Curso)
