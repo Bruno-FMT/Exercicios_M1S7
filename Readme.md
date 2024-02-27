@@ -102,3 +102,24 @@ Relacione as tabelas onde um curso pode ter vários _professores_ (N:1)
 <div align="center">
 <img src="imagens/modelagem_fk.png" alt="Modelagem Relacionamento">
 </div>
+
+## [M1S7] Ex 7 - Dl (Relacionamento)
+
+### Descrição
+
+Alterando a modelagem é possível ter uma visão da alteração necessária no banco de dados.
+Cria *DDL* para o relacionamento entre as tabelas _curso_ e _professor_ conforme sua modelagem.
+
+## Resultado
+
+<div align="center">
+<img src="imagens/foreign_key.png" alt="Foreign Key">
+</div>
+
+- Relacionamento (1:N) - (Curso -> Professores)
+
+<div align="center">
+<img src="imagens/fk.png" alt="Modelagem FK">
+</div>
+
+## [M1S7] Ex 8 - 
