@@ -25,7 +25,7 @@ Modelar tabelas "curso" e "professor"
 ### Resultado
 
 <div align="center">
-    <img src="imagens/part1.png" alt="modelagem lógoca">
+    <img src="imagens/modelagem.png" alt="modelagem lógoca">
 </div>
 
 
@@ -61,5 +61,19 @@ Crie ao menos 5 comandos 'insert' para a tabela _professor_ com dados diferentes
 ## Resultado
 
 <div align="center">
-  <img src="imagens/dnl_professor.png" alt="DML">
+  <img src="imagens/dml_professor.png" alt="DML">
 </div>
+
+## [M1S7] Ex 4 - DDL (Curso)
+
+### Descrição 
+
+Após criar sua primeira tabela a segunda é sempre mais fácil
+Crie *DDL* para a tabela _curso_ conforme sua modelagem
+
+## Resultado
+
+<div align="center">
+  <img src="imagens/ddl_professor.png" alt="DML">
+</div>
+
